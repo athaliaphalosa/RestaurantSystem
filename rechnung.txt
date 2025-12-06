@@ -1,0 +1,11 @@
+
+INVOICE TABLE 12
+INVOICE TIME: 2025-01-16 16:37:55
+
+VUNKY BURGER - 12.0 EUR
+Self request: extra cheese
+
+COLA (0,4) - 3.5 EUR
+Self request: no
+
+Total price: 16.5 EUR
